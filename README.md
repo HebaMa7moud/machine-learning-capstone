@@ -69,7 +69,7 @@ This code  is used to download the data and arranged  it into subfolders. Each o
 A pretrained model (Resnet50 Model) is used to execute classification task. Resnet50 Model is one of large neural network architecture models,where this type of models show excellent performance when dealing with image classification. 
 
 Types of hyperparameters used in training model are: batch-size, epochs, learning rate.
-why chosen?
+
 
 Evaluate model performance:
 
